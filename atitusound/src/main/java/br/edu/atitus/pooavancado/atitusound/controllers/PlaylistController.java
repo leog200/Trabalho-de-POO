@@ -32,7 +32,7 @@ import br.edu.atitus.pooavancado.atitusound.services.MusicService;
 import br.edu.atitus.pooavancado.atitusound.services.PlaylistService;
 
 @RestController
-@RequestMapping("/musics")
+@RequestMapping("/playlist")
 public class PlaylistController extends GenericController <PlaylistEntity, PlaylistDTO>{
 	
 	//Spring, Injeção de Dependências
