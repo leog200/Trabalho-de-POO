@@ -1,7 +1,5 @@
 package br.edu.atitus.pooavancado.atitusound.entities.dtos;
 
-import java.time.public_share;
-
 public class PlaylistDTO {
 	
 	private String name;
