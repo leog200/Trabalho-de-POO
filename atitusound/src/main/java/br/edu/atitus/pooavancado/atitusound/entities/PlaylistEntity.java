@@ -1,6 +1,5 @@
 package br.edu.atitus.pooavancado.atitusound.entities;
 
-import java.time.public_share;
 import java.util.UUID;
 
 import jakarta.persistence.Column;
